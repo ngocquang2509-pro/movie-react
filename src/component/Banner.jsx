@@ -1,7 +1,7 @@
 import React from "react";
 import Rating from "../assets/rating.png";
 import RatingHalf from "../assets/rating-half.png";
-import ImgKSY from "../assets/kimetsu-no-yaiba.jpg";
+import ImgKSY from "../assets/Kimetsu-no-yaiba.jpg";
 import PlayBtn from "../assets/play-button.png";
 const Banner = () => {
   return (
