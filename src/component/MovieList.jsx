@@ -65,7 +65,7 @@ const MovieList = ({ title, data }) => {
     setIsOpen(false);
   }
   return (
-    <div className="p-5 mb-5 text-light">
+    <div className="p-5  text-light">
       <h4 className="text-uppercase mb-4">{title}</h4>
       <Carousel
         className="d-flex align-items-center gap-4"

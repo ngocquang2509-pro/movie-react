@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Kimetsu No Yaiba",
+    "category": "TV Show",
+    "rating": "4.5",
+    "description": "Trên đường tiếp tục làm nhiệm vụ, Tanjirō lập nhóm với Agatsuma Zenitsu và Hashibira Inosuke, cũng là những người sống sót sau kỳ sát hạch. Cả nhóm đối đầu với một thành viên của Thập Nhị Quỷ Nguyệt nhưng bị đánh bại và cuối cùng được các thành viên Sát Quỷ Đội giải cứu rồi đưa về trụ sở.",
+    "posterImage": "https://m.media-amazon.com/images/S/pv-target-images/995a641667506ed2c6d36ab9f7f8c7b32c5caa5aa2734c2291be23bc6b26dcf9.jpg",
+    "backgroundImage": "https://somoskudasai.com/wp-content/uploads/2022/12/kimetsu-no-yaiba-1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "One Piece",
+    "category": "TV Show",
+    "rating": "4.8",
+    "description": "Monkey D. Luffy và băng hải tặc Mũ Rơm tiếp tục cuộc hành trình tìm kiếm kho báu One Piece trên Đại Hải Trình. Từng tập phim là những cuộc phiêu lưu mới, những địch thủ mạnh mẽ và những người bạn mới trên hành trình trở thành Vua Hải Tặc.",
+    "posterImage": "https://pbs.twimg.com/media/F0HuHWiakAE6YtA.jpg",
+    "backgroundImage": "https://fandomwire.com/wp-content/uploads/2023/12/Anime_OnePiece_Wallpaper_StrawHatPirates_Complete.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Jujutsu Kaisen",
+    "category": "TV Show",
+    "rating": "4.7",
+    "description": "Yuji Itadori là một học sinh trung học với khả năng thể chất phi thường. Một ngày nọ, để cứu bạn bè khỏi những linh hồn bị nguyền rủa tấn công, anh ăn một trong những ngón tay của Sukuna và trở thành vật chủ của quỷ vương.",
+    "posterImage": "https://th.bing.com/th/id/OIP.GtNPuRwxKkdsyrOB5I5VrwHaEi?w=960&h=588&rs=1&pid=ImgDetMain",
+    "backgroundImage": "https://th.bing.com/th/id/OIP.9eog2TLJ8Hm4tjcS77q3cAHaLH?w=1000&h=1500&rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 4,
+    "title": "Attack on Titan",
+    "category": "TV Show",
+    "rating": "4.9",
+    "description": "Trong một thế giới nơi nhân loại đứng bên bờ vực tuyệt chủng vì những Titan khổng lồ, Eren Yeager quyết định gia nhập Đội Trinh Sát để chiến đấu chống lại những Titan và khám phá những bí mật đằng sau những bức tường.",
+    "posterImage": "https://th.bing.com/th/id/R.a8865642fae361a5f9b3803f3a95f1fc?rik=RHVSmlx%2fr4N%2b0A&pid=ImgRaw&r=0",
+    "backgroundImage": "https://animeadmirers.com/aotimgs/aot_bkgrnd02.jpg"
+  }
+]
